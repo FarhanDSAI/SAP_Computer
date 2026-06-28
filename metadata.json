@@ -1,0 +1,6 @@
+{
+  "name": "Computer MCQ Bank",
+  "description": "An interactive, beautiful Computer Science MCQ test bank featuring 468 practice questions, real-time feedback, customizable mock tests, scorecards, and a timer with a sleek frosted glass aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
